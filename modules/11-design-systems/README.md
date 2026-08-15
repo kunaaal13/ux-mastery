@@ -9,3 +9,8 @@
 | `quiz.md` | 10 questions with worked solutions |
 
 **Interview payoff:** systems questions are the fastest way to demonstrate scale and collaboration experience.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 10: Accessibility](../10-accessibility/quiz.md) · [↑ Contents](../../README.md) · [Next: 11.1 Anatomy of a Design System →](11.1-anatomy.md)

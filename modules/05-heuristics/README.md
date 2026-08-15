@@ -10,3 +10,8 @@
 | `quiz.md` | 14 questions with worked solutions |
 
 **Interview payoff:** `interview-prep/question-bank/app-critique.md` is built directly on this module.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 04: Gestalt](../04-gestalt/quiz.md) · [↑ Contents](../../README.md) · [Next: 5.1 Nielsen's 10 Usability Heuristics →](5.1-nielsen-heuristics.md)

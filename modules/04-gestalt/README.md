@@ -9,3 +9,8 @@
 | `quiz.md` | 12 questions with worked solutions |
 
 **One idea to carry out of this module:** the whole is perceived before the parts. Users see *groups* before they see elements, and grouping is decided by spacing, alignment, and shared visual properties — not by your component hierarchy.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 03: UX Laws](../03-ux-laws/quiz.md) · [↑ Contents](../../README.md) · [Next: 4.1 The Gestalt Principles →](4.1-the-principles.md)

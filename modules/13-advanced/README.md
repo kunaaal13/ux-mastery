@@ -10,3 +10,8 @@
 | `13.4-ai-and-emerging-interfaces.md` | Designing for probabilistic systems, trust, and agency |
 | `13.5-systems-and-service-design.md` | Service blueprints, second-order effects, designing beyond the screen |
 | `quiz.md` | 12 questions with worked solutions |
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 12: Metrics & Strategy](../12-metrics-strategy/quiz.md) · [↑ Contents](../../README.md) · [Next: 13.1 Behavioural Design →](13.1-behavioural-design.md)

@@ -111,3 +111,8 @@ What I would do:
 - **Behavioural evidence with a stated chain:** funnel-step conversion before and after, activation rate change, and task-success benchmarks from usability testing — with assumptions and confidence stated, not a false-precision revenue figure.
 - **What I would ask for:** "The reason I cannot answer the revenue question is measurable and fixable. I would like event instrumentation and an agreed activation definition before the next quarter's work, plus one experiment per major project, so next quarter I can answer this properly." Turning the question into a measurement commitment is the strongest available response.
 - **What I would avoid:** claiming credit for a metric that moved during the same period without isolating the change, and quoting a satisfaction score as if it were ROI.
+
+---
+
+<!-- nav -->
+[← Previous: 12.3 Design Strategy](12.3-design-strategy.md) · [↑ Module 12 — Metrics & Strategy](README.md) · [Next: Module 13 — Advanced Topics →](../13-advanced/README.md)

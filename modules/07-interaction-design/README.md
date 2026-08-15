@@ -11,3 +11,8 @@
 | `quiz.md` | 13 questions with worked solutions |
 
 **Interview payoff:** "design the interaction" prompts, and the follow-up nobody prepares for — "what does it do when it fails?"
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 06: Visual Design](../06-visual-design/quiz.md) · [↑ Contents](../../README.md) · [Next: 7.1 Affordances & Signifiers →](7.1-affordances-and-signifiers.md)

@@ -112,3 +112,8 @@ The top one is worst because it is a total blocker rather than a degradation, an
 6. **Write down every known gap** with severity in a public list, with owners and target dates. An honest, tracked backlog is defensible; a silent one is not.
 Explicitly deferred (and scheduled, not dropped): a full component-library audit; usability testing with assistive-technology users; complex custom widgets that need rebuilding rather than patching; a formal conformance report or VPAT; and any criterion requiring content rework across the whole product, such as rewriting long-form copy for plain language.
 What I would not defer: anything that blocks a population entirely — keyboard traps, unreachable primary actions, and unlabelled critical controls. I would rather delay a non-essential feature than launch with a flow that a keyboard user cannot complete, and I would say that plainly, with the legal exposure noted once rather than repeatedly.
+
+---
+
+<!-- nav -->
+[← Previous: 10.3 Designing Accessibly](10.3-designing-accessibly.md) · [↑ Module 10 — Accessibility](README.md) · [Next: Module 11 — Design Systems →](../11-design-systems/README.md)

@@ -45,3 +45,8 @@ Copy this checklist into a personal file and tick as you go.
 
 Mocks: [ ] Recruiter screen  [ ] App critique  [ ] Whiteboard  [ ] Portfolio
 ```
+
+---
+
+<!-- nav -->
+[← Previous: UX Mastery — Concepts, Laws, and Interview Prep](../README.md) · [↑ Contents](../README.md) · [Next: Learning Paths →](learning-path.md)

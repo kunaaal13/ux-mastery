@@ -103,3 +103,8 @@ Risk of over-applying: if several tiles get emphasis, isolation collapses and yo
 5. **Verification.** "I would squint at it or view it in greyscale to confirm the groups survive and the primary action is still the first thing my eye lands on."
 6. **Next step.** "Then I would validate with a first-click test rather than assuming my grouping matches users' expectations."
 *Marking:* the strong answer names the mechanism (proximity, isolation) and gives a specific fix; a weak one says "add more spacing and make the button pop."
+
+---
+
+<!-- nav -->
+[← Previous: 4.2 Applying Gestalt — Spacing, Alignment, Diagnosis](4.2-applying-gestalt.md) · [↑ Module 04 — Gestalt Principles](README.md) · [Next: Module 05 — Heuristics & Evaluation →](../05-heuristics/README.md)

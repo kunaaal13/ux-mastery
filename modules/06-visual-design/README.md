@@ -11,3 +11,8 @@
 | `quiz.md` | 13 questions with worked solutions |
 
 **Interview payoff:** the "craft" round. Interviewers are listening for whether you can name the mechanism behind an aesthetic judgement.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 05: Heuristics & Evaluation](../05-heuristics/quiz.md) · [↑ Contents](../../README.md) · [Next: 6.1 Visual Hierarchy →](6.1-visual-hierarchy.md)

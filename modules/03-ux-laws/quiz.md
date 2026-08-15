@@ -131,3 +131,8 @@ Changes: one badge on one plan; one filled button (the recommended plan), the ot
 - **Zeigarnik / Goal-Gradient** for whether users ever reached the product's core value; churn at renewal often means the value moment never landed, not that the last month was bad.
 - **Jakob's Law** if a recent redesign reset learned models — check whether churn concentrates in tenured users.
 First investigation: segment churn by tenure and by whether the account hit the activation milestone, then interview 8–10 churned users with a focus on the worst moment and the renewal experience specifically.
+
+---
+
+<!-- nav -->
+[← Previous: 3.10 UX Laws — Cheat Sheet](3.10-cheat-sheet.md) · [↑ Module 03 — UX Laws & Principles](README.md) · [Next: Module 04 — Gestalt Principles →](../04-gestalt/README.md)

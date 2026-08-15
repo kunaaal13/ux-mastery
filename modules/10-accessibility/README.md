@@ -10,3 +10,8 @@
 | `quiz.md` | 12 questions with worked solutions |
 
 **Interview payoff:** accessibility questions are increasingly standard, and most candidates answer with "contrast and alt text" — a specific, structured answer stands out immediately.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 09: Research](../09-research/quiz.md) · [↑ Contents](../../README.md) · [Next: 10.1 Accessibility Foundations →](10.1-foundations.md)

@@ -108,3 +108,8 @@ A third acceptable answer: errors used to be states; now they can be fluent and 
 - **Memory and privacy:** legible, editable, deletable; minimal retention; clear disclosure of what is used for training, and consent that meets the applicable data-protection law.
 - **Measurement:** task completion for the intents it targets and containment rate (resolved without a human), paired with hard guardrails — misinformation rate sampled by human review, escalation rate, complaint and dispute volume, failed or reversed transactions initiated through the assistant, and satisfaction of users who *did* escalate. I would treat the misinformation and reversed-transaction rates as launch blockers with pre-agreed thresholds, not as metrics to watch afterwards.
 - **Rollout:** internal staff first, then a small cohort, read-only capabilities before transactional ones, with a kill switch.
+
+---
+
+<!-- nav -->
+[← Previous: 13.5 Systems & Service Design](13.5-systems-and-service-design.md) · [↑ Module 13 — Advanced Topics](README.md) · [Next: Interview Prep →](../../interview-prep/README.md)

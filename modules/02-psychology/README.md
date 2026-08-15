@@ -11,3 +11,8 @@
 | `quiz.md` | 12 questions with answers |
 
 **Interview payoff:** when asked "why?" after you name a principle, this module is the answer one level down. Senior candidates can go two levels down.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 01: Foundations](../01-foundations/quiz.md) · [↑ Contents](../../README.md) · [Next: 2.1 Mental Models →](2.1-mental-models.md)

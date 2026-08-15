@@ -110,3 +110,8 @@ Validation: derive the task list from support-ticket topics and search logs; run
 - **Day 13:** **first-click test** on a screenshot of the proposed home screen with 5–10 people.
 - **Day 14:** write up, with a redirect plan and the post-launch metrics to watch.
 What I would knowingly not learn: how the structure performs for users I could not recruit (new users, non-customers, and people with accessibility needs — a real gap, since unmoderated tools under-sample assistive-technology users); how it behaves with real content volume and real personal data; longitudinal effects, including whether existing users' learned paths break (change aversion); and anything about the visual design, since tree tests deliberately exclude it. I would state these limits in the write-up rather than presenting the result as conclusive.
+
+---
+
+<!-- nav -->
+[← Previous: 8.3 Validating IA](8.3-validating-ia.md) · [↑ Module 08 — Information Architecture](README.md) · [Next: Module 09 — UX Research →](../09-research/README.md)

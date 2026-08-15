@@ -8,3 +8,8 @@
 | `12.2-product-metrics.md` | Funnels, activation, retention, north-star metrics, business framing |
 | `12.3-design-strategy.md` | Prioritisation, trade-offs, roadmaps, and arguing for design work |
 | `quiz.md` | 12 questions with worked solutions |
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 11: Design Systems](../11-design-systems/quiz.md) · [↑ Contents](../../README.md) · [Next: 12.1 UX Metrics →](12.1-ux-metrics.md)

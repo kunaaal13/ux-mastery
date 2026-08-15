@@ -11,3 +11,8 @@
 | `quiz.md` | 14 questions with worked solutions |
 
 **Interview payoff:** research questions separate mid from senior candidates faster than any craft question, because they expose whether you know the limits of your evidence.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 08: Information Architecture](../08-information-architecture/quiz.md) · [↑ Contents](../../README.md) · [Next: 9.1 Choosing a Method →](9.1-method-selection.md)

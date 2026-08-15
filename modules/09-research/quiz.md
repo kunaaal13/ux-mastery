@@ -144,3 +144,8 @@ The principle: guardrails exist to catch a win that is actually a transfer of co
   - Define the launch experiment: primary metric (activation, not signups), guardrails (retention, support contacts, quality of signups), the powered sample size, and the run duration.
   - Deliverable: a recommendation — rebuild, targeted fixes, or neither — with the evidence, the cost estimate from engineering, and the measurement plan.
 - **Stated limits:** four weeks cannot measure long-term retention effects; the interview sample will under-represent users who churned long ago and anyone using assistive technology unless deliberately recruited; and analytics only describes users who arrived, so it says nothing about the acquisition mismatch that may be the real cause.
+
+---
+
+<!-- nav -->
+[← Previous: 9.4 Synthesis & Influence](9.4-synthesis-and-influence.md) · [↑ Module 09 — UX Research](README.md) · [Next: Module 10 — Accessibility →](../10-accessibility/README.md)

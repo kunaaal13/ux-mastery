@@ -103,3 +103,8 @@
 - **Motion is the strongest pre-attentive attribute**, so if it *is* noticed it will interrupt a focused task — capturing attention involuntarily and adding extraneous load to the task the user came for. It also needs a `prefers-reduced-motion` fallback.
 Better alternative: place the promotion **in the path** of the task (contextual entry point at the moment the feature is relevant), or use a one-time, dismissible, non-animated inline cue and measure engagement. Acceptable use of motion: rare, urgent, user-relevant events.
 Full credit requires naming the trade-off — a contextual cue reaches fewer users per session but converts far better, and does not degrade the primary task.
+
+---
+
+<!-- nav -->
+[← Previous: 2.4 Memory & Decision-Making](2.4-memory-and-decisions.md) · [↑ Module 02 — Psychology & Cognition](README.md) · [Next: Module 03 — UX Laws & Principles →](../03-ux-laws/README.md)

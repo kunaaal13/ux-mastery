@@ -11,3 +11,8 @@
 | `quiz.md` | 12 questions with answers |
 
 **Interview payoff:** almost every UX interview opens with "walk me through your process." This module is that answer.
+
+---
+
+<!-- nav -->
+[← Previous: Learning Paths](../../00-start-here/learning-path.md) · [↑ Contents](../../README.md) · [Next: 1.1 What Is UX? →](1.1-what-is-ux.md)

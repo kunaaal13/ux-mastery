@@ -57,3 +57,8 @@ The gap is rarely craft. It is judgement, scope, and influence.
 6. Re-read `03-ux-laws` looking specifically for the **counter-cases** noted in each file
 
 **Milestone:** you can say "we chose the worse-looking option because it moved the activation metric, and here is how we validated that."
+
+---
+
+<!-- nav -->
+[← Previous: How to Use This Repo](how-to-use.md) · [↑ Contents](../README.md) · [Next: Module 01 — Foundations →](../modules/01-foundations/README.md)

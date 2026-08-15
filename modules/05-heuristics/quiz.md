@@ -133,3 +133,8 @@ The skipped step is the last one — naming what you *cannot* conclude from an i
 5. **Preserve user control over automation** — the user, not the system, initiates consequential actions; provide interruption (stop generation) and an escape to a deterministic path.
 6. **Support memory and continuity legibly** — show what the system remembers about the user or session, and let them inspect, edit, and delete it.
 Why Nielsen's set alone is insufficient: it assumes a deterministic system with a discoverable, finite set of controls and a visible state. A generative system has an open-ended input space (so discoverability is about *capability*, not controls), non-deterministic output (so "consistency" partially fails as a criterion), and failure modes — plausible fabrication, silent scope creep, unintended side effects — that no classical heuristic names. Nielsen's #1, #3, #5, and #9 still apply and remain valuable; they just do not cover trust calibration, provenance, or automation authority.
+
+---
+
+<!-- nav -->
+[← Previous: 5.3 Running an Evaluation](5.3-running-an-evaluation.md) · [↑ Module 05 — Heuristics & Evaluation](README.md) · [Next: Module 06 — Visual Design →](../06-visual-design/README.md)

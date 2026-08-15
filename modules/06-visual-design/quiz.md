@@ -109,3 +109,8 @@ Three answers:
 - **Comparing across rows:** keep a table, but make it horizontally scrollable with the identifying column frozen, right-aligned tabular figures, and a way to reduce columns (a column picker or a "compare these two" mode). Comparison is the one task where the tabular structure is the value, so preserve it.
 - **Bulk operations:** list with multi-select, a persistent selection count, and a sticky action bar; ensure selection survives scrolling and accidental navigation, since losing a large selection is a severity-4 loss of user work.
 Cross-cutting: never shrink type to make the desktop table fit; ensure touch targets stay ≥44 pt; and verify the header stays available (sticky) so column meaning is not a memory task.
+
+---
+
+<!-- nav -->
+[← Previous: 6.4 Layout & Grids](6.4-layout-and-grids.md) · [↑ Module 06 — Visual Design](README.md) · [Next: Module 07 — Interaction Design →](../07-interaction-design/README.md)

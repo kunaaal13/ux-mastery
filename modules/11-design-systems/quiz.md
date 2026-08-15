@@ -97,3 +97,8 @@
   - Establish design–code parity: one token source generated into both, matching names, versioned releases with a changelog.
 - **Measure:** baseline the variation counts from the audit, then track adoption (share of surfaces and design files using library components), detached-instance rate, one-off components created outside the system, time-to-first-screen for a new hire, support-request turnaround, and accessibility defects found in audit. Report against the baseline monthly.
 - **What I would explicitly not do:** try to cover every component in 90 days, mandate adoption, or measure success by component count. The goal at 90 days is that one team's work is measurably faster and the other three want in.
+
+---
+
+<!-- nav -->
+[← Previous: 11.2 Governance & Adoption](11.2-governance-and-adoption.md) · [↑ Module 11 — Design Systems](README.md) · [Next: Module 12 — Metrics & Strategy →](../12-metrics-strategy/README.md)

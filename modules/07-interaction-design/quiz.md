@@ -119,3 +119,8 @@ Fixes in priority order with trade-offs:
 - **Reduce required fields** — is a phone number genuinely needed at this step? Trade-off: operations may want it for delivery contact; negotiate with a reason rather than deleting unilaterally.
 - **Reorder or defer** — collect address after payment method selection only if the flow allows; trade-off: shipping cost depends on address, so deferring may hide the total, which harms trust more than it helps completion.
 Close with: ship one change at a time behind an experiment, watch step-completion and downstream order-error rate together — a change that raises completion but increases failed deliveries is a net loss.
+
+---
+
+<!-- nav -->
+[← Previous: 7.4 Forms & Inputs](7.4-forms-and-inputs.md) · [↑ Module 07 — Interaction Design](README.md) · [Next: Module 08 — Information Architecture →](../08-information-architecture/README.md)

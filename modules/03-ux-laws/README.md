@@ -17,3 +17,8 @@
 | `quiz.md` | 15 questions with worked solutions |
 
 **How to study these.** For each law hold three things: the **statement**, one **application you can point at**, and one **counter-case**. The counter-case is what separates a candidate who memorised a poster from one who has designed something.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 02: Psychology & Cognition](../02-psychology/quiz.md) · [↑ Contents](../../README.md) · [Next: 3.1 Fitts's Law →](3.1-fittss-law.md)

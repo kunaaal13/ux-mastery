@@ -10,3 +10,8 @@
 | `quiz.md` | 12 questions with worked solutions |
 
 **Interview payoff:** "How would you restructure this app's navigation?" is a standard whiteboard prompt, and the answer that includes *validation methods* wins.
+
+---
+
+<!-- nav -->
+[← Previous: Quiz — Module 07: Interaction Design](../07-interaction-design/quiz.md) · [↑ Contents](../../README.md) · [Next: 8.1 IA Fundamentals →](8.1-ia-fundamentals.md)

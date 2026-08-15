@@ -104,3 +104,8 @@ State explicitly: usability testing only proved step 4, so the failure is upstre
 - Day 5: five guerrilla usability sessions; fix the top two issues.
 - Ship behind a flag with an instrumented funnel and a defined success metric.
 Knowingly given up: any confidence about *why* users churn beyond the flow itself, segment differences, longitudinal effects, and accessibility validation with assistive-technology users. Say so out loud — naming the trade-off is the point of the question.
+
+---
+
+<!-- nav -->
+[← Previous: 1.4 Usability, Utility, Desirability](1.4-usability-utility-desirability.md) · [↑ Module 01 — Foundations](README.md) · [Next: Module 02 — Psychology & Cognition →](../02-psychology/README.md)
